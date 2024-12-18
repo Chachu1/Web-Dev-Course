@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.image {
+    border: 5px solid white;
+    width: 100%;
+}
+
